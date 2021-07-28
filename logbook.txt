@@ -1,0 +1,4 @@
+[7/27/2021 9:30:12 PM] Downloaded some articles related to the MIMIC datasets and uses/issues in ML. Also included that one about the effect of NPI in Europe.
+
+Started procedure to download the MIMIC dataset.
+
